@@ -1,1 +1,21 @@
-
+body{
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: #f5f5f5;
+    color: #454545;
+}
+a{
+    color:#454545;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+h1{
+    display: inline-block; 
+                     
+}
+nav { 
+    display: inline-block;
+}
